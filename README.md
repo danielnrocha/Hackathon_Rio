@@ -1,4 +1,4 @@
-# Projeto Petrobrás Saúde
+# Projeto Petrobrás Health Plaza
 ## Hackathon Hacking Rio (2020)
 ### Por Equipe 124: Allan Kildare, Daniel N. Rocha, Everton Arruda e Letícia Florito
 
