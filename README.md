@@ -1,6 +1,6 @@
 # Projeto Petrobrás Saúde
 ## Hackathon Hacking Rio (2020)
-### Por Equipe 124: Daniel N. Rocha, Everton Arruda e Letícia Florito
+### Por Equipe 124: Allan Kildare, Daniel N. Rocha, Everton Arruda e Letícia Florito
 
 Por meio deste projeto, desenvolvemos um algoritmo de machine learning para analisar as cores de um prato de comida e ranqueá-las de acordo com as suas tonalidade. As imagens seriam fornecidas pelos próprio funcionários, que tirariam fotos em seus celulares e enviariam para um aplicativo criado para esse fim. 
 
