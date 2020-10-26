@@ -1,0 +1,76 @@
+* {
+    background-color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+}
+
+html, body, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+} */
+body {
+    height: 100%;
+}
+
+
+.logo {
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 110px;
+}
+
+.logo img {
+    width: 287px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8px;
+}
+
+.navigation button {
+    margin-left: 15px;
+    border: 2px solid #000;
+    width: 35%;
+    height: 2.8em;
+    text-transform: uppercase;
+    font-weight: 600;
+    border-radius: 6px;
+}
+
+nav {
+    position: absolute;
+    bottom: 0;
+    width: 100%
+}
+
+.navigation .button-2 {
+    background-color: #000;
+    color: #FFFFFF;
+}
+
+.login-problem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 8px 0; 
+    /* background-color: blue; */
+}
+
+.login-problem a {
+    color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: .8em;
+    font-weight: 500;
+}
