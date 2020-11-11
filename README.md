@@ -2,7 +2,7 @@
 ## Hackathon Hacking Rio (2020) – 🏆 2º Lugar no CLuster Transformação Digital
 ### Equipe Petro Health – Daniel N. Rocha, Letícia Fiorito, Everton Arruda, e Allan Kildare
 
-![alt text](https://github.com/danielnrocha/Hackathon_Rio/blob/main/PremioHackingRio.jpeg){:height="50%" width="50%"}
+<img src="https://github.com/danielnrocha/Hackathon_Rio/blob/main/PremioHackingRio.jpeg" width="48">
 
 1. Video Pitch: https://youtu.be/vkcUK_8S5kk
 2. Video App Mockup: https://youtu.be/t2CPALLeaxA
