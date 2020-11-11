@@ -1,6 +1,7 @@
 # Projeto Petrobrás Health Plaza
 ## Hackathon Hacking Rio (2020) – 🏆 2º Lugar (Cluster Transformação Digital)
 ### Equipe Petro Health – Daniel N. Rocha, Letícia Fiorito, Everton Arruda, e Allan Kildare
+Desafio: "Ativar os empregados da Petrobras para o protagonismo nos cuidados com sua saúde".
 
 <img src="https://github.com/danielnrocha/Hackathon_Rio/blob/main/PremioHackingRio.jpeg" width="400"> <img src="https://github.com/danielnrocha/Hackathon_Rio/blob/main/TeamHackingRio.jpeg" width="400"> 
 
