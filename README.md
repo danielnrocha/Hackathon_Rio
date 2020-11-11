@@ -28,6 +28,6 @@ Também visando preservar a privacidade dos funcionários, a análise alimentar 
 Após um determinado período de tempo, a equipe com mais pontos (ou com maior crescimento relativo de pontos) pode receber um prêmio (simbólico ou financeiro). Por meio dessa coleta de dados voluntária, o há a disponibilização de informação de forma descentralizada, facilitando a logistica de monitoramento do comportamento dos funcionários. Esses mesmos dados podem ser utilizados para alertar gestores e nutricionistas sobre padrões alimentares consistentemente pouco saudáveis, ou sobre pioras repentinas no padrão alimentar. 
 </p>
 
-<p style="text-align: justify;">
+<p align="justify">
 Para fins desse projeto, a não submissão da foto do prato equivale a nota zero (quem come de forma pouco saudável não tem espectativa de ficar bem colocada na gameficação, e portanto não tem incentivos para mandar a foto). Como o ranking é relativo e não absoluto, não há juízo de valor subjetivo sobre os pratos de forma isolada (pratos saudáveis e pratos não-saudáveis); na verdade ocorre apenas uma análise comparativa.
 </p>
