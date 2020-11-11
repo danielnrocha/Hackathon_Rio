@@ -8,7 +8,7 @@
 2. Video App Mockup: https://youtu.be/t2CPALLeaxA
 3. Video da Premiação: https://www.youtube.com/watch?v=YMmnMLv2z7w#t=56m11
 
-<p style="text-align: center;">
+<p style="text-align: justify;">
 Por meio deste projeto, desenvolvemos um algoritmo de machine learning para analisar as cores de um prato de comida e ranqueá-las de acordo com as suas tonalidade. As imagens seriam fornecidas pelos próprio funcionários, que tirariam fotos em seus celulares e enviariam para um aplicativo criado para esse fim. 
 
 Pratos com mais predominância de verde (cor de muitas verduras e legumes) são atrelados a pratos mais saudáveis, enquanto que os que possuem tons amarelos como majoritários (cores de carboidratos) são compreendidos como mais calóricos. 
