@@ -1,6 +1,12 @@
 # Projeto Petrobrás Health Plaza
-## Hackathon Hacking Rio (2020)
-### Equipe Petro Health – Daniel N. Rocha, Letícia Florito, Everton Arruda, e Allan Kildare
+## Hackathon Hacking Rio (2020) – 🏆 2º Lugar no CLuster Transformação Digital
+### Equipe Petro Health – Daniel N. Rocha, Letícia Fiorito, Everton Arruda, e Allan Kildare
+
+![alt text](https://github.com/danielnrocha/Hackathon_Rio/blob/main/PremioHackingRio.jpeg?raw=true)
+
+1. Video Pitch: https://youtu.be/vkcUK_8S5kk
+2. Video App Mockup: https://youtu.be/t2CPALLeaxA
+3. Video da Premiação: https://www.youtube.com/watch?v=YMmnMLv2z7w#t=56m11
 
 Por meio deste projeto, desenvolvemos um algoritmo de machine learning para analisar as cores de um prato de comida e ranqueá-las de acordo com as suas tonalidade. As imagens seriam fornecidas pelos próprio funcionários, que tirariam fotos em seus celulares e enviariam para um aplicativo criado para esse fim. 
 
@@ -13,4 +19,3 @@ Também visando preservar a privacidade dos funcionários, a análise alimentar 
 Após um determinado período de tempo, a equipe com mais pontos (ou com maior crescimento relativo de pontos) pode receber um prêmio (simbólico ou financeiro). Por meio dessa coleta de dados voluntária, o há a disponibilização de informação de forma descentralizada, facilitando a logistica de monitoramento do comportamento dos funcionários. Esses mesmos dados podem ser utilizados para alertar gestores e nutricionistas sobre padrões alimentares consistentemente pouco saudáveis, ou sobre pioras repentinas no padrão alimentar. 
 
 Para fins desse projeto, a não submissão da foto do prato equivale a nota zero (quem come de forma pouco saudável não tem espectativa de ficar bem colocada na gameficação, e portanto não tem incentivos para mandar a foto). Como o ranking é relativo e não absoluto, não há juízo de valor subjetivo sobre os pratos de forma isolada (pratos saudáveis e pratos não-saudáveis); na verdade ocorre apenas uma análise comparativa.
-
