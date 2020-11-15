@@ -27,5 +27,6 @@ Após um determinado período de tempo, a equipe com mais pontos (ou com maior c
 <p align="justify">
 Para fins desse projeto, a não submissão da foto do prato equivale a nota zero (quem come de forma pouco saudável não tem espectativa de ficar bem colocada na gameficação, e portanto não tem incentivos para mandar a foto). Como o ranking é relativo e não absoluto, não há juízo de valor subjetivo sobre os pratos de forma isolada (pratos saudáveis e pratos não-saudáveis); na verdade ocorre apenas uma análise comparativa.
 </p>
+
 ----------
 
