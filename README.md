@@ -3,11 +3,11 @@
 ### Equipe Petro Health – Daniel N. Rocha, Letícia Fiorito, Everton Arruda, e Allan Kildare
 Desafio: "Ativar os empregados da Petrobras para o protagonismo nos cuidados com sua saúde".
 
-<img src="https://github.com/danielnrocha/Hackathon_Rio/blob/main/PremioHackingRio.jpeg" width="400"> <img src="https://github.com/danielnrocha/Hackathon_Rio/blob/main/TeamHackingRio.jpeg" width="400"> 
-
 1. Vídeo Pitch: https://youtu.be/vkcUK_8S5kk
 2. Vídeo App Mockup: https://youtu.be/t2CPALLeaxA
 3. Vídeo da Premiação: https://www.youtube.com/watch?v=YMmnMLv2z7w#t=56m11
+
+<img src="https://github.com/danielnrocha/Hackathon_Rio/blob/main/PremioHackingRio.jpeg" width="400"> <img src="https://github.com/danielnrocha/Hackathon_Rio/blob/main/TeamHackingRio.jpeg" width="400"> 
 
 <p align="justify">
 Por meio deste projeto, desenvolvemos um algoritmo de machine learning para analisar as cores de um prato de comida e ranqueá-las de acordo com as suas tonalidade. As imagens seriam fornecidas pelos próprio funcionários, que tirariam fotos em seus celulares e enviariam para um aplicativo criado para esse fim. 
