@@ -5,7 +5,8 @@ Desafio: "Ativar os empregados da Petrobras para o protagonismo nos cuidados com
 
 1. Vídeo Pitch: https://youtu.be/vkcUK_8S5kk
 2. Vídeo App Mockup: https://youtu.be/t2CPALLeaxA
-3. Vídeo da Premiação: https://www.youtube.com/watch?v=YMmnMLv2z7w#t=56m11
+3. Apresentação de Slides: https://bit.ly/2ID3Or0
+4. Vídeo da Premiação: https://www.youtube.com/watch?v=YMmnMLv2z7w#t=56m11
 
 <img src="https://github.com/danielnrocha/Hackathon_Rio/blob/main/PremioHackingRio.jpeg" width="400"> <img src="https://github.com/danielnrocha/Hackathon_Rio/blob/main/TeamHackingRio.jpeg" width="400"> 
 
